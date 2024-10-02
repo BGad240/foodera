@@ -1,0 +1,4 @@
+--> the links in nav dont work, I'll work on it soon
+--> I'l add pages and edit links
+--> I'll add a slider
+--> I'll add menu
